@@ -28,7 +28,7 @@ Dans la fenêtre Modifier la variable système (ou Nouvelle variable système), 
 </li>
 </ul> 
 </li>
-3- Composer
 
+3- Composer
 
 [Session de formation LARAVEL](https://github.com/HeroNational/Formation-LARAVEL)
