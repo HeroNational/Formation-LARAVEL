@@ -1,8 +1,8 @@
 # Formation-LARAVEL
 
-```Nb: Ce travail est stable sur l'environnement Windows``` 
+```Nb: ⚠ Ce travail est stable sur l'environnement Windows 💻``` 
 
-## Chapitre 1: Installation des logiciels nécessaires 
+## Chapitre 1: Installation des logiciels nécessaires et configuration des outils 🛠 
 
 <ol>
 <li>
@@ -29,6 +29,34 @@ Dans la fenêtre Modifier la variable système (ou Nouvelle variable système), 
 </ul> 
 </li>
 
-3- Composer
+<li> Composer
+<br/>
+Suivez les instructions données par ce site Web https://davidperonne.com/installation-de-php-7-et-composer-sur-windows-10-en-mode-natif/
+</li>
+<li>
+Postgres SQL 
+<br/>
+Installez Postgres SQL après avoir téléchargé sur l'adresse https://sbp.enterprisedb.com/getfile.jsp?fileid=12715
+</li>
+<li>
+Visual Studio Code 
+<br/>
+Installer Visual Studio Code (VS Code) après son téléchargement à l'adresse https://aka.ms/win32-user-stable
+</li>
+<li>
+Github Extension for VS Code
+<br/>
+Si vous avez installé visual studio code sur votre pc, cliquez juste sur le lien suivant 😉 https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github
+</li>
+<li>
+Compte Github 
+<br/>
+Créez un compte github si vous n'en avez pas déjà sur l'adresse http://github.com/login
+</li>
+<li>
+XFTP
+<br/>
+Vous aurez besoin pour envoyer des fichiers sur un serveur. Télécharger le sur le lien https://www.netsarang.com/en/free-for-home-school/. Ne craignez rien 😉, remplissez le formulaire et vous recevrez le lien de téléchargement direct du logiciel dans votre boîte e-mail. 
+</li>
 
-[Session de formation LARAVEL](https://github.com/HeroNational/Formation-LARAVEL)
+☘️[Session de formation LARAVEL 📙🖊️💻](https://github.com/HeroNational/Formation-LARAVEL)
