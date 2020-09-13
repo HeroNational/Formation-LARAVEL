@@ -1,8 +1,8 @@
 # Formation-LARAVEL
 
-```Nb: ⚠ Ce travail est stable sur l'environnement Windows 💻``` 
+```Nb: ⚠ Ce travail est stable sur l'environnement Windows 😢💻``` 
 
-## Chapitre 1: Installation des logiciels nécessaires et configuration des outils 🛠 
+## Chapitre 1: Installation de l'environnement 💻 🛠 
 
 <ol>
 <li>
@@ -11,7 +11,7 @@ Chocolatey: https://chocolatey.org/install
 <li>
  Php 7 https://windows.php.net/downloads/releases/php-7.4.10-nts-Win32-vc15-x86.zip
  <br/> 
- Ajouter Php dans les variables d'environnement système afin qu'il soit accessible par tout utilitaire de ligne de commande. Pour se faire, suivez la procédure suivante:
+ Ajouter Php dans les variables d'environnement système afin qu'il soit accessible par tout utilitaire de ligne de commande. Pour se faire, suivez la procédure suivante 😏:
 <ul>
 <li>
 Après avoir téléchargé l'une de versions de Php (la version 7 de préférence), lancer l'extraction dans un emplacement de l'ordinateur. 
@@ -31,7 +31,7 @@ Dans la fenêtre Modifier la variable système (ou Nouvelle variable système), 
 
 <li> Composer
 <br/>
-Suivez les instructions données par ce site Web https://davidperonne.com/installation-de-php-7-et-composer-sur-windows-10-en-mode-natif/
+Suivez les instructions données par ce site Web 😏 https://davidperonne.com/installation-de-php-7-et-composer-sur-windows-10-en-mode-natif/
 </li>
 <li>
 Postgres SQL 
@@ -56,7 +56,7 @@ Créez un compte github si vous n'en avez pas déjà sur l'adresse http://github
 <li>
 XFTP
 <br/>
-Vous aurez besoin pour envoyer des fichiers sur un serveur. Télécharger le sur le lien https://www.netsarang.com/en/free-for-home-school/. Ne craignez rien 😉, remplissez le formulaire et vous recevrez le lien de téléchargement direct du logiciel dans votre boîte e-mail. 
+Vous aurez besoin pour envoyer des fichiers sur un serveur 📂. Télécharger le sur le lien https://www.netsarang.com/en/free-for-home-school/. Ne craignez rien 😉, remplissez le formulaire et vous recevrez le lien de téléchargement direct du logiciel dans votre boîte e-mail. 
 </li>
-
+<br/><br/>
 ☘️[Session de formation LARAVEL 📙🖊️💻](https://github.com/HeroNational/Formation-LARAVEL)
