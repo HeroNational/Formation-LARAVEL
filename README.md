@@ -77,7 +77,7 @@ Créez un compte github si vous n'en avez pas déjà sur l'adresse http://github
 Télécharger le à l'adresse https://git-scm.com/download/win pour les utilisateurs de Windows bien évidemment. Les utilisateurs d'autres OS peuvent avoir les versions disponibles à cette adresse https://git-scm.com/download/
 </li>
 <li>
-XFTP
+<b>XFTP</b>
 <br/>
 Vous aurez besoin pour envoyer des fichiers sur un serveur 📂. Télécharger le sur le lien https://www.netsarang.com/en/free-for-home-school/. Ne craignez rien 😉, remplissez le formulaire et vous recevrez le lien de téléchargement direct du logiciel dans votre boîte e-mail. 
 </li>
