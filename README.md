@@ -54,7 +54,7 @@ Installez Postgres SQL après avoir téléchargé sur l'adresse https://sbp.ente
 <li>
 <b>Visual Studio Code</b> 
 <br/>
-Visual Studio Code et un éditeur de texte très populaire doté d'une grande communauté, prétendre coder c'est sûr du c'est se munir des outils adéquats.
+Visual Studio Code et un éditeur de texte très populaire doté d'une grande communauté, prétendre coder c'est se munir des outils adéquats.
 <br/>
 Installer Visual Studio Code (VS Code) après son téléchargement à l'adresse https://aka.ms/win32-user-stable
 </li>
