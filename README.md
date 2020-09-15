@@ -74,7 +74,7 @@ Créez un compte github si vous n'en avez pas déjà sur l'adresse http://github
 <b>Git</b> 
 <br/>Git est un outil de gestion des versions de code en local. En gros il permet la manipulation du code source lorsqu'il est encore dans notre ordinateur local.
 <br/>
-Télécharger le à l'adresse http://git-scm.com 
+Télécharger le à l'adresse https://git-scm.com/download/win pour les utilisateurs de Windows bien évidemment. Les utilisateurs d'autres OS peuvent avoir les versions disponibles à cette adresse https://git-scm.com/download/
 </li>
 <li>
 XFTP
